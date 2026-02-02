@@ -1,0 +1,7 @@
+{
+  "name": "The North Mississippi Notary",
+  "description": "A professional, technologist-owned mobile notary and field services firm serving 7 counties in North Mississippi with on-site printing and scanning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
